@@ -1,0 +1,79 @@
+/*Stylesheet*/
+body{
+
+}
+
+/*General rules*/
+
+.clearfix{
+    clear:both;
+
+}
+.header{
+    padding-top: 25px;
+    padding-right: 15px;
+}
+
+.header nav{
+    float: right;
+
+}
+
+.header nav ul li {
+    list-style-type: none;
+    display: inline;
+    padding-left: 10px;
+
+}
+
+.header nav ul li a{
+
+    color: #000;
+    text-decoration: none;
+}
+
+.header nav ul li a:hover{
+    border-bottom: 1px solid #000;
+
+}
+
+.header nav ul li .sign-in{
+    background: #4485f3;
+    padding: 7px 15px;
+    border-radius: 2px 2px 2px;
+    color: #fff;
+}
+
+
+.google-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.search-bar{
+    text-align: center
+}
+
+.button-section{
+    text-align: center;
+}
+
+.language-bar{
+    text-align: center
+}
+
+.footer {
+    padding-top: 200px
+}
+
+.footer nav ul li{
+   display: inline;
+   list-style-type: none;
+}
+
+.footer nav ul li{
+    display: inline;
+    list-style-type: none;
+}
